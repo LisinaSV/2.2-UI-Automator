@@ -13,6 +13,7 @@ import org.junit.Test
 import org.junit.runner.RunWith
 
 const val MODEL_PACKAGE = "ru.netology.testing.uiautomator"
+
 const val TIMEOUT = 10000L
 
 @RunWith(AndroidJUnit4::class)
